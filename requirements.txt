@@ -1,0 +1,4 @@
+ffmpeg==1.4
+moviepy==1.0.3
+opencv-python-headless==4.10.0.84
+PyQt5==5.15.11
